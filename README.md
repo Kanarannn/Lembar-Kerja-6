@@ -28,7 +28,6 @@ npm run preview
 | `/contact` | Kontak        |
 | `*`        | 404           |
 
-Untuk hosting statis, arahkan rute yang tidak dikenal ke `index.html` agar halaman dapat dibuka langsung.
 
 ## Konten
 
@@ -39,4 +38,8 @@ Untuk hosting statis, arahkan rute yang tidak dikenal ke `index.html` agar halam
 | Tim dan foto          | `src/data/team.js`     |
 | Warna dan jenis huruf | `src/index.css`        |
 
-Foto anggota tim berada di `src/photo/`.
+## Identitas
+
+Nama   : Muhammad Firdaus
+NIM    : 2511615
+Kelas  : Pendidikan Ilmu Komputer
